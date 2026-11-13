@@ -1,0 +1,5 @@
+# Visual Studio build output and local settings
+bin/
+obj/
+.vs/
+*.user
